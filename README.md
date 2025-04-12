@@ -52,7 +52,7 @@ A modern, responsive restaurant website with features like menu management, tabl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BNB2006/CM-Hackathon-2025.git
+git clone https://github.com/Kartik712633/1st-hackathon.git
 ```
 
 2. Open `index.html` in your web browser
